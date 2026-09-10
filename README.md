@@ -4,7 +4,7 @@
 
 ## Preview / Преглед
 
-[Live Preview] link
+[Live Preview] https://angelzhelyazkov.github.io/genova-test-task/
 
 ## Design / Дизайн
 
